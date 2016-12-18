@@ -1,0 +1,3 @@
+robot controller
+YPOS	Yposition	3	SLIDER	Y Rotation	0	1.0	0.15
+XPOS	Xposition	3	SLIDER	Y Axis	0	1.0	0.2
